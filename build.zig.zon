@@ -1,0 +1,7 @@
+.{
+    .name = .ztl2,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.17.0",
+    .paths = .{""},
+    .fingerprint = 0x77a12a43c920e3fe,
+}
